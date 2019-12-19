@@ -1,0 +1,18 @@
+.navBarStyle 
+{
+    background-color: '#008080f0';
+    box-shadow: "0px 10px 0px 0px rgba(59, 179, 149, 0.8)";
+    z-index: 1000;
+    font-size: "1.5rem";
+    margin-bottom: "10px";
+}
+.navBarBrandStyle
+{
+    color: '#ffffff';
+    font-family: "Geo";
+    font-size: "2rem";
+}
+.geo-font
+{
+    font-family: 'Geo';
+}
