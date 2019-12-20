@@ -52,15 +52,19 @@ class MainNavbar extends Component {
             <NavItem>
               <NavLink href="/#about">About</NavLink>
             </NavItem>
+            {/*
             <NavItem>
               <NavLink href="/#schedule">Schedule</NavLink>
             </NavItem>
+            
             <NavItem>
               <NavLink href="/#faq">FAQ</NavLink>
             </NavItem>
+            */}
             <NavItem>
               <NavLink href="/#sponsors">Sponsors</NavLink>
             </NavItem>
+            {/*
             <NavItem>
               <Link to='/comments'>
                 <NavLink active={this.props.active === 'comments'}>
@@ -78,6 +82,7 @@ class MainNavbar extends Component {
                 <NavLink active={this.props.active === 'pop-prize'}>人氣獎實況</NavLink>
               </Link>
             </NavItem>
+            */}
           </Nav>
         </Collapse>
       </Navbar>
