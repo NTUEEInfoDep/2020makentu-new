@@ -1,3 +1,5 @@
 # MakeNTU 2020
-
-Add participant site on the basis of previous site
+## Setup
+- Source at `ntuee/production/nginx/static/2020makentu-new`
+- Update and `npm run build`
+- Goto `ntuee/production`, run `docker-compose nginx restart`
