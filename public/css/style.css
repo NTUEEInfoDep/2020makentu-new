@@ -748,6 +748,12 @@ a[data-lightbox]:hover img{
     vertical-align: middle;
 }
 
+.geo-font-td 
+{
+    font-family: 'Geo';
+    font-size: 1.5rem;
+}
+
 .geo-font
 {
     font-family: 'Geo';
@@ -838,6 +844,20 @@ a[data-lightbox]:hover img{
 {
     font-size: 2rem;
 }
+
+.point-table{
+    width: 60%;
+    margin: 0 auto;
+    font-size: 1rem;
+}
+
+.point-table tr:nth-child(even) {
+    background-color: #eee;
+}
+.point-table tr:nth-child(odd) {
+    background-color: #fff;
+}
+
 @media only screen and (max-width:600px) {
     .logo-img {
       width: 80%;
