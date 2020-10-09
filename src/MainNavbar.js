@@ -52,11 +52,20 @@ class MainNavbar extends Component {
             <NavItem>
               <NavLink href="/#about">About</NavLink>
             </NavItem>
-            {/*
+            
             <NavItem>
               <NavLink href="/#schedule">Schedule</NavLink>
             </NavItem>
-            
+            <NavItem>
+              <NavLink href="/#info">Info</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/#links">Links</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/#location">Location</NavLink>
+            </NavItem>
+            {/*
             <NavItem>
               <NavLink href="/#faq">FAQ</NavLink>
             </NavItem>
